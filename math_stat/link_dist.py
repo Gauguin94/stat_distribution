@@ -1,3 +1,5 @@
+# 구현한 분포를 불러오는 역할
+
 from continuous import*
 from discrete import*
 
