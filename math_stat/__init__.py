@@ -1,4 +1,4 @@
 # __init__.py
 
-from .linkDist import*
+from .link_dist import*
 from .main import*
