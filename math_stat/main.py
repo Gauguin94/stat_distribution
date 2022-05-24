@@ -1,4 +1,4 @@
-from linkDist import*
+from link_dist import*
 
 distn_list = ['B','NB','G','P','r','X_2','Beta','N']
 
